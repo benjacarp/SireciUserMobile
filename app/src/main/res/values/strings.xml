@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SireciUser</string>
+    <string name="buscar">Buscar</string>
+    <string name="material">material</string>
+    <string name="ubicacion">ubicacion</string>
+    <string name="mi_ubicacion">Mi ubicacion</string>
+
+    <string-array name="habilidades">
+        <item></item>
+        <item>pet</item>
+        <item>vidrio</item>
+        <item>aluminio</item>
+        <item>carton</item>
+    </string-array>
+
+
+</resources>
